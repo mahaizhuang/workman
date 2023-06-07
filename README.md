@@ -3,4 +3,4 @@
 
 ![工具网站](image/2023060801.jpg)
 
-[Cheat SHeet https://www.cheat-sheet.cn/](https://www.cheat-sheet.cn/)
+[速查表 https://www.cheat-sheet.cn/](https://www.cheat-sheet.cn/)
