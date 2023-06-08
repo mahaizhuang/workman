@@ -10,7 +10,7 @@ do
 done
 ```
 ---
-## shell变量
+## :tshirt: shell变量
 + [[ ]]  # 针对数学比较表达式
 + (( ))  # 字符串表达式的加强版
 + $#	传给脚本的参数个数
@@ -26,7 +26,7 @@ done
 
 ---
 
-## awk用法
+## :green_apple: awk用法
 
 ***逻辑运算：*** ```awk 'BEGIN {num = 5; if (num >= 0 && num <= 7)  printf "%d is in 0 ~ 7\n", num }'```
 
