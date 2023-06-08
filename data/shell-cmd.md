@@ -10,3 +10,4 @@ do
 done
 ```
 
+## shell变量
