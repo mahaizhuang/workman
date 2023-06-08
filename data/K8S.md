@@ -2,7 +2,7 @@
 ## K8S基本知识
 ### K8S在linux的文件分布
 
-1. /etc/kubernetes：Kubernetes的配置文件目录，包含了Kubernetes各个组件的配置文件。
++ /etc/kubernetes：Kubernetes的配置文件目录，包含了Kubernetes各个组件的配置文件。
 
 /var/lib/kubelet：kubelet的数据目录，包含了kubelet的缓存数据、Pod的状态等信息。
 
