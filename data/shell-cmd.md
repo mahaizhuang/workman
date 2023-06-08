@@ -2,7 +2,7 @@
 
 ## 文本数组
 + 遍历数组
-```
+```shell
 list1=(d f 3 5 t a)
 for element in ${list1[@]}
 do
