@@ -31,3 +31,5 @@ done
 ***逻辑运算：*** ```awk 'BEGIN {num = 5; if (num >= 0 && num <= 7)  printf "%d is in 0 ~ 7\n", num }'```
 
 ***算术运算：*** ```awk 'BEGIN { cnt=10; cnt += 99; print "Counter =", cnt }'```
+
+:blush: `:blush:`
