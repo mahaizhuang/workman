@@ -1,6 +1,6 @@
 # :neckbeard: shell常用操作
 
-## 文本数组
+## :credit_card: 文本数组
 + 遍历数组
 ```shell
 list1=(d f 3 5 t a)
