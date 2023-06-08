@@ -1,4 +1,4 @@
-# shell常用操作
+# :neckbeard:shell常用操作
 
 ## 文本数组
 + 遍历数组
@@ -32,4 +32,3 @@ done
 
 ***算术运算：*** ```awk 'BEGIN { cnt=10; cnt += 99; print "Counter =", cnt }'```
 
-:blush: `:blush:`
