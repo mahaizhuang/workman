@@ -23,7 +23,6 @@ done
 + $?	显示最后命令的退出状态,0表示没有错误,其他表示有错误 
 
 ***shell举例：*** ```for i in m h z; do echo "my name is ${i}test";done```
-
 ---
 
 ## awk用法
