@@ -1,4 +1,4 @@
-# :neckbeard:shell常用操作
+# :neckbeard: shell常用操作
 
 ## 文本数组
 + 遍历数组
