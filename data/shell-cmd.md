@@ -50,3 +50,7 @@ xargs -I {} ping -n -D -c 2 {} < url.log
 
 ## :watermelon: 网络
 
+```shell
+netstat -n | awk '/^tcp/ {++S[$NF]} END {for (a in S) print a,S[a]}'
+```
+
