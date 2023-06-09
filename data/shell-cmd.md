@@ -9,6 +9,13 @@ do
   echo $element
 done
 ```
++ 读取文本内容并执行命令
+```shell
+#!/bin/bash
+for url in $(cat url.log); do
+  ping -n -D -c 2 "$url"
+done
+```
 ---
 ## :tshirt: shell变量
 + [[ ]]  # 针对数学比较表达式
