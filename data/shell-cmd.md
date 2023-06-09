@@ -11,7 +11,7 @@ done
 ```
 + 读取文本内容并执行命令
 
-***for do done***
+++ ***for do done***
 ```shell
 #!/bin/bash
 for url in $(cat url.log); do
