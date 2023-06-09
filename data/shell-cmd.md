@@ -16,6 +16,9 @@ for url in $(cat url.log); do
   ping -n -D -c 2 "$url"
 done
 ```
+```shell
+xargs -I {} ping -n -D -c 2 {} < url.log
+```
 ---
 ## :tshirt: shell变量
 + [[ ]]  # 针对数学比较表达式
