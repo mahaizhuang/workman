@@ -10,6 +10,7 @@ do
 done
 ```
 + 读取文本内容并执行命令
+
 ***for do done***
 ```shell
 #!/bin/bash
@@ -17,6 +18,7 @@ for url in $(cat url.log); do
   ping -n -D -c 2 "$url"
 done
 ```
+***xargs***
 ```shell
 xargs -I {} ping -n -D -c 2 {} < url.log
 ```
