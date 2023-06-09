@@ -46,3 +46,7 @@ xargs -I {} ping -n -D -c 2 {} < url.log
 
 ***算术运算：*** ```awk 'BEGIN { cnt=10; cnt += 99; print "Counter =", cnt }'```
 
+---
+
+## :watermelon: 网络
+
