@@ -20,6 +20,7 @@ done
 ```
 ***xargs***
 ```shell
+#< url.log将url.log文件的内容作为输入提供给xargs命令，然后xargs命令将逐行读取该输入，并将每行内容作为参数传递给后续的ping命令进行执行。
 xargs -I {} ping -n -D -c 2 {} < url.log
 ```
 ---
