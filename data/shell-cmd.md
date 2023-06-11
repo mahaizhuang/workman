@@ -57,6 +57,6 @@ netstat -n | awk '/^tcp/ {++S[$NF]} END {for (a in S) print a,S[a]}'
 
 ## :apple: 简单实例
 
-***循环打印时间：*** ```shell i=0; while true; do echo "$i: $(date)"; i=$((i+1)); sleep 1; done```
+***循环打印时间：*** ```shelli=0; while true; do echo "$i: $(date)"; i=$((i+1)); sleep 1; done```
 
 
