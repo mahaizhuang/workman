@@ -1,5 +1,6 @@
 # Kubernetes运维
 ![虚拟化历史回溯](/image/虚拟化历史回溯.png)
+
 ## K8S基本知识
 ### K8S在linux的文件分布
 
