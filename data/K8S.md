@@ -42,7 +42,7 @@
 ### Kubernetes 组件
 ![K8S组件.png](/image/K8S组件.png)
 
-+ 控制平面组件（Control Plane Components）
+#### 控制平面组件（Control Plane Components）
 
 控制平面组件会为集群做出全局决策，比如资源的调度。 以及检测和响应集群事件，例如当不满足部署的 replicas 字段时， 要启动新的 pod）。
 
