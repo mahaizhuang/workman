@@ -10,3 +10,5 @@
 + /opt/cni/bin：CNI插件的二进制文件目录，包含了Kubernetes网络插件的二进制文件。
 + /opt/cni/net.d：CNI插件的配置文件目录，包含了Kubernetes网络插件的配置文件。
 + /usr/local/bin：Kubernetes二进制文件目录，包含了Kubernetes各个组件的二进制文件。
+
+![虚拟化历史回溯](image/虚拟化历史回溯.svg)
