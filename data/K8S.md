@@ -95,7 +95,7 @@ cloud-controller-manager 仅运行特定于云平台的控制器。 因此如果
     路由控制器（Route Controller）：用于在底层云基础架构中设置路由
     服务控制器（Service Controller）：用于创建、更新和删除云提供商负载均衡器
 
-## Node 组件
+#### Node 组件
 
 节点组件会在每个节点上运行，负责维护运行的 Pod 并提供 Kubernetes 运行环境。
 
