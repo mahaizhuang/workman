@@ -94,3 +94,8 @@ Routing decision                                                  |
 [root@localhost opt]# cat /proc/sys/fs/file-nr 
 992	0	9223372036854775807
 ```
+> - 查看单个进程允许打开的最大 fd 数量
+``` shell
+[root@localhost opt]# ulimit -n
+1024
+``` 
