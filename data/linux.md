@@ -89,3 +89,8 @@ Routing decision                                                  |
 [root@localhost opt]# cat /proc/sys/fs/file-max 
 9223372036854775807
 ````
+> - 查看所有进程已经打开的 fd 数量以及允许的最大数量
+``` shell
+[root@localhost opt]# cat /proc/sys/fs/file-nr 
+992	0	9223372036854775807
+```
