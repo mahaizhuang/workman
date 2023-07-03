@@ -83,4 +83,6 @@ Routing decision                                                  |
 ```
 ## :pig: linux内核
 ### :pig_nose: 文件描述符
-
+` [root@localhost opt]# cat /proc/sys/fs/file-max 
+9223372036854775807
+`
