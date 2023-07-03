@@ -84,7 +84,7 @@ Routing decision                                                  |
 ## :pig: linux内核
 ### :pig_nose: 文件描述符
 
-![文件描述符](image/文件描述符-20230703.png)
+![文件描述符](/image/文件描述符-20230703.png)
 
 > - 查看所有进程允许打开的最大 fd 数量
 ``` shell
