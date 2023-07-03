@@ -84,7 +84,7 @@ Routing decision                                                  |
 ## :pig: linux内核
 ### :pig_nose: 文件描述符
 
-***查看所有进程允许打开的最大 fd 数量***
+> - 查看所有进程允许打开的最大 fd 数量
 ``` shell
 [root@localhost opt]# cat /proc/sys/fs/file-max 
 9223372036854775807
